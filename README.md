@@ -1,1 +1,2 @@
-# lib_hdwallet_swift
+# Library for HdWallet
+
